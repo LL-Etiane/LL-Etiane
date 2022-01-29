@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Leinyuy Etiane
-- 💙 I love doing backend programming and learning more about infosec
+- 💙 I love doing coding and learning more about infosec
 - 🌱 I’m currently learning better and secure ways of turning ideas into working code
 
 
